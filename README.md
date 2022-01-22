@@ -6,6 +6,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2017/03/23/12/32/arduino-2168193_960_720.png">
 
+- 🏫 Pursuing B.E in ECE at **[Vasavi College of Engineering](https://www.vce.ac.in/)**
+
 - 🔭 I’m an **Electronics Hobbyist**
 
 - 🌱 I’m currently learning **IOT, Embedded Systems**
