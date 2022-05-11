@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **IOT, Embedded Systems**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://eshwarevil23.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://eshwarevil23.github.io/portfolio)**
 
 - 📫 How to reach me **alampally.eshwar23@gmail.com**
 
